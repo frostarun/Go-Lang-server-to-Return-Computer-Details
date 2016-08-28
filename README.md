@@ -7,4 +7,4 @@ go run getusage.go -service=install
 
 go run getusage.go -service=start
 
-localhost:8083/getusage
+Hit http://localhost:8083/getusage using any REST client or in a Browser.
